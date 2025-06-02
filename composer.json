@@ -1,5 +1,5 @@
 {
-    "name": "idez/nova-date-range-filter",
+    "name": "am-balloon-events/nova-date-range-filter",
     "description": "A Laravel Nova date range filter.",
     "keywords": [
         "laravel",
@@ -7,7 +7,7 @@
         "date",
         "range",
         "filter",
-        "idez"
+        "am-balloon-events"
     ],
     "license": "MIT",
     "authors": [
@@ -19,7 +19,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/idezdigital/nova-date-range-filter/issues"
+        "issues": "https://github.com/am-balloon-events/nova-date-range-filter/issues"
     },
     "repositories": [
         {
@@ -34,13 +34,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Idez\\DateRangeFilter\\": "src/"
+            "AmBalloonEvents\\DateRangeFilter\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Idez\\DateRangeFilter\\FilterServiceProvider"
+                "AmBalloonEvents\\DateRangeFilter\\FilterServiceProvider"
             ]
         }
     },
