@@ -1,6 +1,6 @@
 <?php
 
-namespace Idez\DateRangeFilter;
+namespace AmBalloonEvents\DateRangeFilter;
 
 use Carbon\Carbon;
 use Illuminate\Database\Eloquent\Builder;

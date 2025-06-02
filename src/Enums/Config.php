@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Idez\DateRangeFilter\Enums;
+namespace AmBalloonEvents\DateRangeFilter\Enums;
 
 class Config
 {

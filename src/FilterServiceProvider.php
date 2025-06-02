@@ -1,6 +1,6 @@
 <?php
 
-namespace Idez\DateRangeFilter;
+namespace AmBalloonEvents\DateRangeFilter;
 
 use Illuminate\Support\ServiceProvider;
 use Laravel\Nova\Events\ServingNova;
