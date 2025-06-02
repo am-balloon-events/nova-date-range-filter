@@ -40,7 +40,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                 "Idez\\DateRangeFilter\\FilterServiceProvider"
+                "AmBalloonEvents\\DateRangeFilter\\FilterServiceProvider"
             ]
         }
     },
